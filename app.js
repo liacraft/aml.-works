@@ -6,7 +6,7 @@
   const copyStatus = document.getElementById('copyStatus');
   const dateField = document.getElementById('deadline');
   // Paste your deployed Google Apps Script Web App URL here after setup.
-  const GOOGLE_APPS_SCRIPT_URL = ''; // Example: https://script.google.com/macros/s/DEPLOYMENT_ID/exec
+  const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzlRDPDJK6bIueRnC2efWf05Zg2Iy-h1Vte1aTmDVc9eymu5pPhmUNPmGglW8mjKJccwQ/exec'; // Example: https://script.google.com/macros/s/DEPLOYMENT_ID/exec
 
   // Avoid allowing a requested deadline to default to a date in the past.
   const today = new Date();
