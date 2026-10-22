@@ -2,8 +2,8 @@
  * Setup: create this script from Extensions > Apps Script in your response Sheet.
  * Then deploy as a Web app, executing as you, with access set to Anyone.
  */
-const SPREADSHEET_ID = 'PASTE_GOOGLE_SHEET_ID_HERE'; // ID between /d/ and /edit in the Sheet URL.
-const NOTIFICATION_EMAIL = 'YOUR_EMAIL@example.com'; // Change to the email that should receive requests.
+const SPREADSHEET_ID = '1tpgzcNevAvwRTQDTIDV-sYlMtBddtlCEn_PvuWXGt5c'; // ID between /d/ and /edit in the Sheet URL.
+const NOTIFICATION_EMAIL = 'amaliakakashi@gmail.com'; // Change to the email that should receive requests.
 const SHEET_NAME = 'Project Requests';
 
 function doPost(e) {
